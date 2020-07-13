@@ -1,0 +1,29 @@
+body {
+    background-color: #ddd;
+}
+
+h1 {
+    font-size: 2rem;
+    text-align: center;
+    margin: 30px;
+}
+
+.main {
+    margin-left: 20px;
+}
+
+.diplay-value-rgb {
+    width: 25px;
+    text-align: center;
+}
+
+#item-rgb {
+    margin: 30px;
+    height: 110px;
+    width: 110px;
+}
+
+footer {
+    margin: 50px;
+    text-align: center;
+}
