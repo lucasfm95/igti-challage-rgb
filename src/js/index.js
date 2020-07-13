@@ -46,5 +46,5 @@ function setColorRgb() {
     let green = inputGreenRange.value;
     let blue = inputBlueRange.value;
 
-    divColor.style.backgroundColor = "rgb(" + red + "," + green + "," + blue + ")";
+    divColor.style.backgroundColor = `rgb(${red}, ${green}, ${blue})`;
 }
